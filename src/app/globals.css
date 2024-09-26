@@ -25,3 +25,12 @@ body {
     text-wrap: balance;
   }
 }
+
+p {
+  margin-bottom: 1rem;
+}
+
+label {
+  display: inline-block;
+  margin-bottom: 0.5rem;
+}
